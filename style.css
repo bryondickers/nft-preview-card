@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+    :root{
+        --soft-blue:215 51% 70%;
+        --cyan:178 100% 50%;
+
+        --very-dark-blue-bgmain:217 54% 11%;
+        --very-dark-blue-bgcard:216 50% 16%;
+        --very-dark-blue-line:215 32% 27%;
+        --white:0 0% 100%;
+    }
+}
